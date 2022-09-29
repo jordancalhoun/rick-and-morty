@@ -1,4 +1,4 @@
-#About this repo
+# About this repo
 Super simple app to play around with Svelte.  **By no means is the code in here best practices**
 # Svelte + Vite
 
