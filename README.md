@@ -1,3 +1,5 @@
+#
+super simple app to play around with Svelte.  **By no means is the code in here best practices**
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
